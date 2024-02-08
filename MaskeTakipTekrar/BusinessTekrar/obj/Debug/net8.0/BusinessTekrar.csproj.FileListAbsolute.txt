@@ -1,0 +1,15 @@
+C:\Users\kaan\source\repos\MaskeTakipTekrar\BusinessTekrar\bin\Debug\net8.0\BusinessTekrar.deps.json
+C:\Users\kaan\source\repos\MaskeTakipTekrar\BusinessTekrar\bin\Debug\net8.0\BusinessTekrar.dll
+C:\Users\kaan\source\repos\MaskeTakipTekrar\BusinessTekrar\bin\Debug\net8.0\BusinessTekrar.pdb
+C:\Users\kaan\source\repos\MaskeTakipTekrar\BusinessTekrar\bin\Debug\net8.0\EntitiesTekrar.dll
+C:\Users\kaan\source\repos\MaskeTakipTekrar\BusinessTekrar\bin\Debug\net8.0\EntitiesTekrar.pdb
+C:\Users\kaan\source\repos\MaskeTakipTekrar\BusinessTekrar\obj\Debug\net8.0\BusinessTekrar.csproj.AssemblyReference.cache
+C:\Users\kaan\source\repos\MaskeTakipTekrar\BusinessTekrar\obj\Debug\net8.0\BusinessTekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan\source\repos\MaskeTakipTekrar\BusinessTekrar\obj\Debug\net8.0\BusinessTekrar.AssemblyInfoInputs.cache
+C:\Users\kaan\source\repos\MaskeTakipTekrar\BusinessTekrar\obj\Debug\net8.0\BusinessTekrar.AssemblyInfo.cs
+C:\Users\kaan\source\repos\MaskeTakipTekrar\BusinessTekrar\obj\Debug\net8.0\BusinessTekrar.csproj.CoreCompileInputs.cache
+C:\Users\kaan\source\repos\MaskeTakipTekrar\BusinessTekrar\obj\Debug\net8.0\BusinessTekrar.csproj.CopyComplete
+C:\Users\kaan\source\repos\MaskeTakipTekrar\BusinessTekrar\obj\Debug\net8.0\BusinessTekrar.dll
+C:\Users\kaan\source\repos\MaskeTakipTekrar\BusinessTekrar\obj\Debug\net8.0\refint\BusinessTekrar.dll
+C:\Users\kaan\source\repos\MaskeTakipTekrar\BusinessTekrar\obj\Debug\net8.0\BusinessTekrar.pdb
+C:\Users\kaan\source\repos\MaskeTakipTekrar\BusinessTekrar\obj\Debug\net8.0\ref\BusinessTekrar.dll

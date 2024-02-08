@@ -1,0 +1,11 @@
+C:\Users\kaan\source\repos\MaskeTakipTekrar\EntitiesTekrar\bin\Debug\net8.0\EntitiesTekrar.deps.json
+C:\Users\kaan\source\repos\MaskeTakipTekrar\EntitiesTekrar\bin\Debug\net8.0\EntitiesTekrar.dll
+C:\Users\kaan\source\repos\MaskeTakipTekrar\EntitiesTekrar\bin\Debug\net8.0\EntitiesTekrar.pdb
+C:\Users\kaan\source\repos\MaskeTakipTekrar\EntitiesTekrar\obj\Debug\net8.0\EntitiesTekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaan\source\repos\MaskeTakipTekrar\EntitiesTekrar\obj\Debug\net8.0\EntitiesTekrar.AssemblyInfoInputs.cache
+C:\Users\kaan\source\repos\MaskeTakipTekrar\EntitiesTekrar\obj\Debug\net8.0\EntitiesTekrar.AssemblyInfo.cs
+C:\Users\kaan\source\repos\MaskeTakipTekrar\EntitiesTekrar\obj\Debug\net8.0\EntitiesTekrar.csproj.CoreCompileInputs.cache
+C:\Users\kaan\source\repos\MaskeTakipTekrar\EntitiesTekrar\obj\Debug\net8.0\EntitiesTekrar.dll
+C:\Users\kaan\source\repos\MaskeTakipTekrar\EntitiesTekrar\obj\Debug\net8.0\refint\EntitiesTekrar.dll
+C:\Users\kaan\source\repos\MaskeTakipTekrar\EntitiesTekrar\obj\Debug\net8.0\EntitiesTekrar.pdb
+C:\Users\kaan\source\repos\MaskeTakipTekrar\EntitiesTekrar\obj\Debug\net8.0\ref\EntitiesTekrar.dll
